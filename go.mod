@@ -1,4 +1,4 @@
-module dropsearch
+module github.com/zpeters/dropsearch
 
 go 1.21
 
